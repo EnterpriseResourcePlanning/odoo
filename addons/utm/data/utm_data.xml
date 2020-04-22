@@ -24,6 +24,18 @@
         <record model="utm.source" id="utm_source_twitter">
             <field name="name">Twitter</field>
         </record>
+        <record model="utm.source" id="utm_source_linkedin">
+            <field name="name">LinkedIn</field>
+        </record>
+        <record model="utm.source" id="utm_source_monster">
+            <field name="name">Monster</field>
+        </record>
+        <record model="utm.source" id="utm_source_glassdoor">
+            <field name="name">Glassdoor</field>
+        </record>
+        <record model="utm.source" id="utm_source_craigslist">
+            <field name="name">Craigslist</field>
+        </record>
 
         <!-- UTM Medium -->
         <record model="utm.medium" id="utm_medium_website">
@@ -46,9 +58,6 @@
         </record>
         <record model="utm.medium" id="utm_medium_facebook">
             <field name="name">Facebook</field>
-        </record>
-        <record model="utm.medium" id="utm_medium_linkedin">
-            <field name="name">LinkedIn</field>
         </record>
         <record model="utm.medium" id="utm_medium_television">
             <field name="name">Television</field>
